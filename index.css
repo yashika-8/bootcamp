@@ -10,7 +10,7 @@ body, html {
 }
 
 .part {
-    background-color: rgb(223, 194, 231);
+    background-color: rgb(217, 244, 242);
     padding: 30px;
     font-size: 50px;
     text-transform: uppercase;
@@ -94,5 +94,19 @@ body, html {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 .section-p1{
-    background-color: rgb(223, 194, 231);
+    background-color: rgb(192, 183, 189);
+    display: flex;
+    justify-content: center;
+}
+h2{
+    background-color: rgb(221, 160, 187);
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+#firstblog{
+    background-color: aquamarine;
+}
+#firstbody{
+    background-color: rgb(191, 236, 207);
 }
